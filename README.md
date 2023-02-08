@@ -19,4 +19,6 @@ Here are some ideas to get you started:
 
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/changyu9803@gmail.com-FFFFFF?style=social&logo=Gmail&logoColor=EA4335"/></a>
 
+<a href="https://www.instagram.com/03_23_98/" target="_blank"><img src="https://img.shields.io/badge/03_23_98-FFFFFF?style=social&logo=Instagram&logoColor=E4405F"/></a>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shinc17&show_icons=true&theme=radical)
