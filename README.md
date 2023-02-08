@@ -1,4 +1,4 @@
-### Hi there! Welcome to my Github 👋
+### 안녕하세요/Hello/こんにちは/你好/Bonjour/اَلسَّلاَمُ عَلَيْكُمْ 👋
 
 <!--
 **shinc17/shinc17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Shin%20Chang%20Yu&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Shin's%20GitHub&fontSize=70)
 
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/changyu9803@gmail.com-FFFFFF?style=social&logo=Gmail&logoColor=EA4335"/></a>
 
